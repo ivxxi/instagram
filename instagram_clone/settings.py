@@ -64,7 +64,7 @@ DEBUG =config('DEBUG',default=False,cast=bool)
 
 LOGIN_REDIRECT_URL = ('/')
 
-SECRET_KEY = 'zrhvqnl0@5+dk=ab0zryuwepi&av9tffb$oo*yu_h6sp*l-jrj'
+SECRET_KEY = 'fcubj^3r(ky&@g!q%9t4(v4cgdx201882%@b8q4im(8a2(_+wy'
 # Application definition
 
 INSTALLED_APPS = [
