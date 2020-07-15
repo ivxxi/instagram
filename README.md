@@ -51,8 +51,7 @@ The application allows users to sign up, upload pictures,view other user's pictu
 Crystalalice21@gmail.com
 
 ### Licence
-### Licence
-[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/ivxxi/django1/blob/master/Licence)
+[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/ivxxi/gram/blob/master/LICENSE)
 Copyright(c) 2020 Crystal Alice
 
-https://github.com/ivxxi/gram/blob/master/LICENSE
+
