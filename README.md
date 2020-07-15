@@ -45,3 +45,10 @@ The application allows users to sign up, upload pictures,view other user's pictu
 <li>CSS</li>
 <li>HTML</li>
 </ul>
+
+
+### Support and Contact Details
+Crystalalice21@gmail.com
+
+### Licence
+Copyright(c) 2020 Crystal Alice
