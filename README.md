@@ -52,3 +52,5 @@ Crystalalice21@gmail.com
 
 ### Licence
 Copyright(c) 2020 Crystal Alice
+
+https://github.com/ivxxi/gram/blob/master/LICENSE
